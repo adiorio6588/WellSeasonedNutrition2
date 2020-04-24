@@ -23,6 +23,11 @@ a {
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
+  cursor: pointer;
+}
+
+.fai {
+  cursor: pointer;
 }
 
 a:hover {
@@ -293,7 +298,7 @@ header.masthead p {
   font-weight: 700;
   text-transform: uppercase;
   border: none;
-  border-radius: 300px;
+  border-radius: 3px;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
